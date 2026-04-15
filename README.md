@@ -39,23 +39,23 @@ The dataset includes booking details, pickup & drop locations, ride time, fare a
 
 ### 🔹 Overall Dashboard
 
-![Overall](./assets/overall.png)
+![Overall](./Overall.png)
 
 ### 🔹 Vehicle Type Analysis
 
-![Vehicle Type](./assets/vehicle_type.png)
+![Vehicle Type](./VehicalType.png)
 
 ### 🔹 Revenue Analysis
 
-![Revenue](./assets/revenue.png)
+![Revenue](./Revenue.png)
 
 ### 🔹 Cancellation Analysis
 
-![Cancellation](./assets/cancellation.png)
+![Cancellation](./Canceltion.png)
 
 ### 🔹 Rating Analysis
 
-![Rating](./assets/rating.png)
+![Rating](./Rating.png)
 
 ---
 
